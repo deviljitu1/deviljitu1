@@ -1,4 +1,4 @@
-# 👨‍💻 **Jitu Das**  
+# 👨‍💻 **Nahush Patel**  
 #### *MERN Stack Developer | Open Source Enthusiast*  
 📍 **From:** India | 🌐 **Portfolio:** [Coming Soon]  
 
