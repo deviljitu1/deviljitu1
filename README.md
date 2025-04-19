@@ -29,7 +29,7 @@
 ---
 
 ### 🔥 **Recent Projects**  
-#### 1. [E-Commerce MERN App](https://github.com/deviljitu1/ecommerce-mern)  
+#### 1. [E-Commerce MERN App](https://nahushpatel.in)  
    - Full-stack e-commerce platform with React, Node.js, and MongoDB.  
    ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
