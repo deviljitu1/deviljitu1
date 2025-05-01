@@ -31,19 +31,18 @@
 ### 🔥 **Recent Projects**  
 #### 1. [Updated Personal Portfolio](https://nahushpatel.in)  
    - Built a fully responsive personal portfolio website using modern web technologies (HTML, CSS, JavaScript) to showcase projects, skills, and professional background.  
-   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### 2. [Tindog – Responsive Dog Dating Website Clone](https://deviljitu1.github.io/Tindog/)  
    - Developed a responsive single-page website inspired by Tinder, tailored for dog lovers using HTML, CSS, and Bootstrap.  
-   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
 *(Replace with your actual projects!)*  
 
 ---
 
 ### 🌱 **Currently Learning**  
-- **Advanced React (Redux, Context API)**  
-- **DevOps (Docker, AWS)**  
+- **React Js**   
 
 ---
 
