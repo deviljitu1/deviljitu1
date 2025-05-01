@@ -29,12 +29,12 @@
 ---
 
 ### 🔥 **Recent Projects**  
-#### 1. [E-Commerce MERN App](https://nahushpatel.in)  
-   - Full-stack e-commerce platform with React, Node.js, and MongoDB.  
+#### 1. [Updated Personal Portfolio](https://nahushpatel.in)  
+   - Built a fully responsive personal portfolio website using modern web technologies (HTML, CSS, JavaScript) to showcase projects, skills, and professional background.  
    ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
-#### 2. [Portfolio Website](https://github.com/deviljitu1/portfolio)  
-   - Responsive portfolio built with HTML, CSS, and JavaScript.  
+#### 2. [Tindog – Responsive Dog Dating Website Clone](https://deviljitu1.github.io/Tindog/)  
+   - Developed a responsive single-page website inspired by Tinder, tailored for dog lovers using HTML, CSS, and Bootstrap.  
    ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
 *(Replace with your actual projects!)*  
@@ -48,9 +48,9 @@
 ---
 
 ### 📫 **Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jitu-patel1/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/JITUP99288196)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nahushpatel880@gmail.com)
 
 ---
 
